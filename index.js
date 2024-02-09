@@ -78,7 +78,7 @@ const perguntas = [
         "2010",
         "2019",
       ],
-      correta: 0
+      correta: 1
     },
     {
       pergunta: "Qual é a dança tradicional angolana marcada pelos movimentos sensuais dos quadris e foi popularizada internacionalmente?",
